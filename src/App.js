@@ -32,7 +32,7 @@ function App() {
           Hi, I'm Dhanashree <span className="wave">👋</span>
         </h1>
         <p className="hero-subtitle" data-aos="fade-up" data-aos-delay="200">
-          Associate Software Developer | OS Specialist
+          Associate Engineer Software Developer | OS Specialist
         </p>
         <p className="hero-description" data-aos="fade-up" data-aos-delay="400">
           A dedicated developer with 2 years of experience in operating system development and customization.
